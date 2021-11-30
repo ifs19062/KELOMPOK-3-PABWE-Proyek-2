@@ -9,7 +9,7 @@
 * 11S19060 Evi Rosalina Silaban
 * 11S19062 Grace Stefani Natalia Pakpahan
 
-### Deskripsi Proyek
+### 1. Deskripsi Proyek
 Pada proyek ini mahasiswa diminta untuk mengerjakan pembuatan aplikasi web dinamis. 
 * Repositori aplikasi disimpan dalam versioning control menggunakan aplikasi online github.com dengan link https://github.com/ifs19062/KELOMPOK-3-PABWE-Proyek-2
 * Framework aplikasi yang digunakan adalah Laravel
